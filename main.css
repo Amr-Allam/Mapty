@@ -144,12 +144,12 @@ a:visited {
 }
 
 .form__label {
-  /* flex: 0 0 50%; */
-  /* font-size: 1.5rem;
-  font-weight: 600; */
+  flex: 0 0 50%;
+  font-size: 1.5rem;
+  font-weight: 600;
 }
 
-/* .form__input {
+.form__input {
   width: 100%;
   padding: 0.3rem 1.1rem;
   font-family: inherit;
@@ -158,44 +158,44 @@ a:visited {
   border-radius: 3px;
   background-color: var(--color-light--3);
   transition: all 0.2s;
-} */
+}
 
-/* .form__input:focus {
+.form__input:focus {
   outline: none;
   background-color: #fff;
-} */
+}
 
-/* .form__btn {
+.form__btn {
   display: none;
-} */
+}
 
-/* .copyright {
+.copyright {
   margin-top: auto;
   font-size: 1.3rem;
   text-align: center;
   color: var(--color-light--1);
-} */
+}
 
-/* .twitter-link:link,
+.twitter-link:link,
 .twitter-link:visited {
   color: var(--color-light--1);
   transition: all 0.2s;
-} */
+}
 
-/* .twitter-link:hover,
+.twitter-link:hover,
 .twitter-link:active {
   color: var(--color-light--2);
-} */
+}
 
 /* MAP */
-/* #map {
+#map {
   flex: 1;
   height: 100%;
   background-color: var(--color-light--1);
-} */
+}
 
 /* Popup width is defined in JS using options */
-/* .leaflet-popup .leaflet-popup-content-wrapper {
+.leaflet-popup .leaflet-popup-content-wrapper {
   background-color: var(--color-dark--1);
   color: var(--color-light--2);
   border-radius: 5px;
@@ -215,4 +215,4 @@ a:visited {
 }
 .cycling-popup .leaflet-popup-content-wrapper {
   border-left: 5px solid var(--color-brand--1);
-} */
+}
